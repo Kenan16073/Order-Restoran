@@ -1,0 +1,65 @@
+{
+    "tables": [
+        {
+            "id": "1",
+            "name": "M1"
+        },
+        {
+            "id": "2",
+            "name": "M2"
+        },
+        {
+            "id": "3",
+            "name": "M3"
+        },
+        {
+            "id": "4",
+            "name": "M4"
+        }
+    ],
+    "eats": [
+        {
+            "id": "1",
+            "name": "Pizza",
+            "price": 20
+        },
+        {
+            "id": "2",
+            "name": "Doner",
+            "price": 2
+        },
+        {
+            "id": "3",
+            "name": "Et doner",
+            "price": 4
+        },
+        {
+            "id": "4",
+            "name": "Hot dog",
+            "price": 1
+        },
+        {
+            "id": "5",
+            "name": "SU",
+            "price": 0.5
+        }
+    ],
+
+    "employeer" : [
+        {
+            "id" : "1",
+            "name" : "Arif"
+        },
+        {
+            "id" : "2",
+            "name" : "Akif"
+        },
+        {
+            "id" : "3",
+            "name" : "Asif"
+        }, {
+            "id" : "4",
+            "name" : "Xeyyam"
+        }
+    ]
+}
